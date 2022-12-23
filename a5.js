@@ -1,4 +1,2 @@
 asdfasdf
 tuttiiii
-holuus
-fataaaal
