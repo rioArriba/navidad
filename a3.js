@@ -1,1 +1,2 @@
-console.log('asdf')
+alert('asdf')
+alert('patata')
